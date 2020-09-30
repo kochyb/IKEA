@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="745d9f14-814e-479f-82c8-34e39cbbdc16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="745d9f14-814e-479f-82c8-34e39cbbdc16" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +48,23 @@
       <option name="presentableId" value="Default" />
       <updated>1601398871804</updated>
       <workItem from="1601398872969" duration="8818000" />
-      <workItem from="1601479179437" duration="3286000" />
+      <workItem from="1601479179437" duration="3574000" />
     </task>
+    <task id="LOCAL-00001" summary="lesson 1">
+      <created>1601482520612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601482520612</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson 1">
+      <created>1601482559629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601482559629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 1" />
   </component>
 </project>
